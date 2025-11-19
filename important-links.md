@@ -1,1 +1,1 @@
-[An Internal Link](https://www.python.org/)
+[Python Official Website](https://www.python.org/)
